@@ -1,6 +1,6 @@
 <?php
  //include header.php file
- include("header.php")
+ include("template/header.php")
 ?>
 
 <?php
@@ -25,5 +25,5 @@
 
 <?php
  //include footer.php file
- include("footer.php")
+ include("template/footer.php")
 ?>
