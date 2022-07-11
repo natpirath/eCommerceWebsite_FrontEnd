@@ -1,5 +1,5 @@
 # eCommerceWebsite_FrontEnd
-This is a project that I decide to during my break week from college. I plan to complete the backend in the following weeks.
+This is a project that I decide to during my break week from college. I plan to complete the backend in the next break.
 
 Pages:
 1. Home page:
